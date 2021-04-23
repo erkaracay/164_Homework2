@@ -1,7 +1,7 @@
 /*********
 CTIS164 - Template Source Program
 ----------
-STUDENT : Suphi Erkin Karaçay
+STUDENT : Suphi Erkin KaraÃ§ay
 SECTION : 002
 HOMEWORK: #2
 ----------
